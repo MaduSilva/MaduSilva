@@ -5,5 +5,5 @@
 ### 💻 Conhecimentos em HTML, CSS e C#
 - 💁 No momento desenvolvendo um site em HTML e CSS
 - 🚀 Estou no LinkedIn! https://www.linkedin.com/in/maria-eduarda-lucia-da-silva-95305a1a1/
-- Maior interesse em FrontEnd
+- 👾 Tentando ser uma desenvolvedora full stack!
 
