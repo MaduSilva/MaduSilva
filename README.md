@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá 🙋
 
 <!--
 **MaduSilva/MaduSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Maria Eduarda / 17 anos / Atualmente estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
