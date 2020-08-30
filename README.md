@@ -4,7 +4,9 @@
 ### Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP
  💻 Conhecimentos em HTML, CSS e C#
  💁 Aberta a novas oportunidades!
-
+ 
+<a href="https://github.com/MaduSilva/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
 
 ### Me procurando? Cá estou
 
