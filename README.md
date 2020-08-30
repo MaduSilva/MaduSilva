@@ -6,8 +6,7 @@
  💁 Aberta a novas oportunidades!
  
 <a href="https://github.com/MaduSilva/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva)](https://github.com/MaduSilva/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva)
 
 ### Me procurando? Cá estou
 
