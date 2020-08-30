@@ -1,18 +1,23 @@
-### Olá 🙋
+<p align="center"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/helloworld.gif" alt="Hello World!" width="550"/></p>
 
-### Maria Eduarda, 17 anos
-### Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP
- 💻 Conhecimentos em HTML, CSS e C#
- 💁 Aberta a novas oportunidades!
- 
-<a href="https://github.com/MaduSilva/github-readme-stats">
-https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva)
+<h1 align = "center">Tudo bom? 🙋</h1>
 
-### Me procurando? Cá estou
+<p> Me chamo Maria Eduarda e tenho 17 anos de idade, comecei no mundo da programação no ano de 2020</p>
+<p>Atualmente sou estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP</p>
+
+
+<p><b>Me procurando? Cá estou</p></b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Madudev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madudev)](https://www.linkedin.com/in/madudev)
 [![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
 
 
-Volte sempre :D
+Volte sempre :octocat:
+
+<a href="https://github.com/MaduSilva/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
+</a>
+<a href="https://github.com/MaduSilva/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva" />
+</a>
 
