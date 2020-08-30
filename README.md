@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/helloword.gif" alt="Hello World!" width="550"/></p>
+<p align="center"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/helloword.gif" alt="Hello World!"></p>
 
 <h1 align = "center">Tudo bom? 🙋</h1>
 
