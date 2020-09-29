@@ -2,8 +2,9 @@
 
 <h1 align = "center">Tudo bom? 🙋</h1>
 
-<p> Me chamo Maria Eduarda e tenho 17 anos de idade, comecei no mundo da programação no ano de 2020</p>
-<p>Atualmente sou estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP</p>
+<p> Maria Eduarda,  17 anos </p>
+<p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP</p>
+<p> Conhecimentos em HTML5, CSS3, C# e SQL Server </p>
 
 
 <p><b>Me procurando? Cá estou</p></b>
