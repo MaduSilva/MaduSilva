@@ -4,7 +4,7 @@
 
 <p> Maria Eduarda,  17 anos </p>
 <p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP</p>
-<p> Conhecimentos em HTML5, CSS3, C# e SQL Server </p>
+<p> Conhecimentos em HTML5, CSS3, C#, SQL Server, JavaScript </p>
 
 
 <p><b>Me procurando? Cá estou</p></b>
