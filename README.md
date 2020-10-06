@@ -1,9 +1,7 @@
 <p align="center"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/ezgif.com-add-text (1).gif" alt="Compilado com sucessso!" width="200px"></p>
 
-<h1 align = "center">Tudo bom? 🙋</h1>
-
 <p> Maria Eduarda,  17 anos </p>
-<p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática / São Paulo - SP</p>
+<p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática</p>
 <p> Conhecimentos em HTML5, CSS3, C#, SQL Server, JavaScript </p>
 
 
