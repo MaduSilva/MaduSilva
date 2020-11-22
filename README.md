@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Madudev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madudev)](https://www.linkedin.com/in/madudev)
 [![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
   
-<p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/png.png" alt="png" width="200px"></p>
+<p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/WhatsApp_Image_2020-11-22_at_00.28.16-removebg-preview%20(1).png" alt="png" width="200px"></p>
 
 Volte sempre :octocat:
 
