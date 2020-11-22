@@ -3,7 +3,7 @@
 <p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática</p>
 <p> Conhecimentos em HTML5, CSS3, C#, SQL Server, JavaScript </p>
 
-<p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/WhatsApp_Image_2020-11-22_at_00.28.16-removebg-preview%20(1).png" alt="png" width="400px"></p>
+<p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/WhatsApp_Image_2020-11-22_at_00.28.16-removebg-preview%20(1).png" alt="png" width="250px"></p>
 
 <p><b>Me procurando? Cá estou</p></b>
 
