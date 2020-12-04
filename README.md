@@ -1,7 +1,7 @@
 
 <p> Maria Eduarda,  17 anos </p>
 <p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática</p>
-<p> Conhecimentos em HTML5, CSS3, C#, SQL Server, JavaScript </p>
+<p> Conhecimentos em HTML5, CSS3, C#, SQL Server, JavaScript, React e React Native :) </p>
 
 <p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/mariapng.png" alt="png" width="250px"></p>
 
