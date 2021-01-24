@@ -13,7 +13,9 @@
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-000?&logo=JAVASCRIPT)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000?&logo=BOOTSTRAP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Azure Devops](https://img.shields.io/badge/-Devops-000?&logo=Microsoft)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
 
 <br />
 
@@ -31,5 +33,6 @@ Volte sempre :octocat:
 <a href="https://github.com/MaduSilva/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva" />
 </a>
-![](https://visitor-badge.laobi.icu/badge?page_id=MaduSilva.MaduSilva)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=MaduSilva)
 
