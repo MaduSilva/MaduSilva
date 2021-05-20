@@ -2,7 +2,7 @@
 
 <p> Maria Eduarda,  18 anos </p>
 <p> Estudante do curso de Desenvolvimento de Sistemas na Escola SENAI de Informática</p>
-<p> icon by: @rafaelalucia
+
 
 <p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/mariapng.png" alt="png" width="250px"></p>
 
@@ -28,10 +28,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
 
 <p><b>Icon & Art by: </p></b>
-[![GitHub](https://img.shields.io/badge/-RafaelaLucia-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/RafaelaLucia)]
-  
 
-Volte sempre :octocat:
+@RafaelaLucia on :octocat:
+
+
 
 <a href="https://github.com/MaduSilva/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
