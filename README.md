@@ -28,7 +28,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
 
 <p><b>Icon & Art by: </p></b>
-[![Github Badge](https://img.shields.io/badge/-RafaelaLucia-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaelaLucia)](https://github.com/RafaelaLucia)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaelaLucia)](https://github.com/RafaelaLucia)
   
 
 Volte sempre :octocat:
