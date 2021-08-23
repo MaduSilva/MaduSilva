@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaduSilva)
 
 <p> Maria Eduarda,  18 anos </p>
-<p> Desenvolvedora Frontend, me interesso bastante por javascript principalmente reactjs :) </p>
+<p> Desenvolvedora Frontend na Carambola Tech, me interesso bastante por javascript principalmente reactjs :) </p>
 
 
 <p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/mariapng.png" alt="png" width="250px"></p>
