@@ -2,7 +2,6 @@
 
 <p> Olá, me chamo Maria Eduarda e tenho 18 anos </p>
 <p> Atualmente sou desenvolvedora fullStack na Carambola Tech :) <img src="https://github.com/MaduSilva/MaduSilva/blob/master/pato.png" alt="png" width="100px"> </p>
-<p align="center"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/pato.png" alt="png" width="100px"></p>
 
 ### Languages and Tools:
 
