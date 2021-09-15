@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaduSilva)
 
-<p> Maria Eduarda,  18 anos </p>
-<p> Desenvolvedora FullStack na Carambola Tech :) </p>
+<p> Olá, me chamo Maria Eduarda e tenho 18 anos </p>
+<p> Atualmente sou desenvolvedora fullStack na Carambola Tech :) </p>
 
 
 <p align="right"><img src="https://github.com/MaduSilva/MaduSilva/blob/master/mariapng.png" alt="png" width="250px"></p>
@@ -33,10 +33,6 @@
 @RafaelaLucia on :octocat:
 
 
-
-<a href="https://github.com/MaduSilva/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
-</a>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?madusilva" frameborder="0"></iframe>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madusilva&show_icons=true&locale=en&layout=compact&theme=default" alt="madusilva" /></p>
 
 
