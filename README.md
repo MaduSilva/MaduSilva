@@ -1,7 +1,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=MaduSilva)
 
 <p> Olá, me chamo Maria Eduarda e tenho 18 anos </p>
-<p> Atualmente sou desenvolvedora fullStack na Carambola Tech :) <img src="https://github.com/MaduSilva/MaduSilva/blob/master/pato.png" alt="png" width="100px"> </p>
+<p> Atualmente sou desenvolvedora fullstack na Carambola Tech :) </p>
+<img src="https://github.com/MaduSilva/MaduSilva/blob/master/pato.png" alt="png" width="100px">
 
 ### Languages and Tools:
 
@@ -23,8 +24,8 @@
 
 <p><b>Me procurando? Cá estou</p></b>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Madudev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madudev)](https://www.linkedin.com/in/madudev)
-[![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Madudev-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madudev)](https://www.linkedin.com/in/madudev)
+[![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
 
 <p><b>Icon & Art by: </p></b>
 
