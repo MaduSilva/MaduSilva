@@ -37,9 +37,6 @@
 <a href="https://github.com/MaduSilva/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
 </a>
-<a href="https://github.com/MaduSilva/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva" />
-</a>
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?madusilva" frameborder="0"></iframe>
 
 
