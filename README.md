@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=JAVA)
 ![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
 ![React](https://img.shields.io/badge/-ReactNative-000?&logo=React)
+<br/>
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JAVASCRIPT)
 ![Bootstrap](https://img.shields.io/badge/-BootStrap-000?&logo=BOOTSTRAP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
